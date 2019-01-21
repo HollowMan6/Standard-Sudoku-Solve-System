@@ -1,0 +1,39 @@
+请按任意键继续. . . 
+标准数独(Sudoku)(9*9)解题系统      ***Powered By Hollow Man***
+
+              Standard Sudoku Solve System(SSSS)
+****************************************************************
+
+输入格式如下所示(要填数字的地方用0表示)：
+
+The input format is as follows(replace the space where you have to input numbers with 0.):
+
+X X X X X X X X X
+X X X X X X X X X
+X X X X X X X X X
+X X X X X X X X X
+X X X X X X X X X
+X X X X X X X X X
+X X X X X X X X X
+X X X X X X X X X
+X X X X X X X X X
+
+请输入待解决的数独：
+
+Please input the sudoku to be solved:
+
+
+答案如下：
+
+The solution is here:
+
+4 1 7 6 2 3 5 8 9 
+8 6 5 1 7 9 3 2 4 
+2 9 3 8 5 4 6 7 1 
+1 7 2 3 6 5 9 4 8 
+5 4 6 7 9 8 1 3 2 
+9 3 8 4 1 2 7 6 5 
+3 5 9 2 8 6 4 1 7 
+6 8 1 9 4 7 2 5 3 
+7 2 4 5 3 1 8 9 6 
+
