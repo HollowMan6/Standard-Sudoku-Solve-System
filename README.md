@@ -1,6 +1,9 @@
 # Standard-Sudoku-Solve-System
 # 标准数独(Sudoku)(9*9)解题系统
 
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.svg?v=103)](https://opensource.org/licenses/GPL-3.0/)
+
 This is a program coded by C gives you the solution to a specific Sudoku.
 
 Here is the [website（推荐网站）](http://www.sudoku.name) that I recommend gives you Sudoku Problems every day. 
