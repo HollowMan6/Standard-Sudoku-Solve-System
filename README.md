@@ -16,13 +16,13 @@
 
 下面是应用程序运行示例，使用一个每天能更新数独题目的[网站](http://www.sudoku.name)的题目：
 
-![](p1.JPG)
+![](Pics/p1.JPG)
 ->
 
-![](p2.JPG)
+![](Pics/p2.JPG)
 
 这是程序给出的解答：
-![](p3.JPG)
+![](Pics/p3.JPG)
 
 你也可以通过固定的提供格式将题目存在文件中，使用命令从而解题。一个示例如下：
 
@@ -34,9 +34,9 @@ Standard-Sudoku-Solve-System < example.txt > example-output.txt
 
 结果：
 
-[example.txt](example.txt)
+[example.txt](Test/example.txt)
 
-[example-output.txt](example-output.txt)
+[example-output.txt](Test/example-output.txt)
 
 # Standard Sudoku Solve System
 
@@ -44,13 +44,13 @@ This is a program coded by C gives you the solution to a specific Sudoku.
 
 Here is the example provided, using the question on the [website](http://www.sudoku.name) that gives you Sudoku Problems every day:
 
-![](p1.JPG)
+![](Pics/p1.JPG)
 ->
 
-![](p2.JPG)
+![](Pics/p2.JPG)
 
 Here is the solution given by program:
-![](p3.JPG)
+![](Pics/p3.JPG)
 
 You can also solve the problem that saved in the file with the format provided.
 
@@ -62,6 +62,6 @@ Standard-Sudoku-Solve-System < example.txt > example-output.txt
 
 The result:
 
-[example.txt](example.txt)
+[example.txt](Test/example.txt)
 
-[example-output.txt](example-output.txt)
+[example-output.txt](Test/example-output.txt)
