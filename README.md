@@ -2,6 +2,7 @@
 
 [![last-commit](https://img.shields.io/github/last-commit/HollowMan6/Standard-Sudoku-Solve-System)](../../graphs/commit-activity)
 [![release-date](https://img.shields.io/github/release-date/HollowMan6/Standard-Sudoku-Solve-System)](../../releases)
+![C/C++ CI](https://github.com/HollowMan6/Standard-Sudoku-Solve-System/workflows/C/C++%20CI/badge.svg)
 
 [![Followers](https://img.shields.io/github/followers/HollowMan6?style=social)](https://github.com/HollowMan6?tab=followers)
 [![watchers](https://img.shields.io/github/watchers/HollowMan6/Standard-Sudoku-Solve-System?style=social)](../../watchers)
